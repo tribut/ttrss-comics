@@ -1,7 +1,9 @@
 ttrss-comics
 ============
 
-[Tiny Tiny RSS](http://www.tt-rss.org) plugins to fix comics' feeds. Enabling the plugins will add **inline images** to supported feeds. 
+[Tiny Tiny RSS](http://www.tt-rss.org) plugins to add **inline images** (comics) to supported feeds.
+
+![Screenshot](http://i.imgur.com/x5ynERX.png)
 
 Currently available:
  * [GU Comics](http://www.gucomics.com/)
