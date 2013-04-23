@@ -1,8 +1,5 @@
 <?php
 class af_gucomics extends Plugin {
-
-	private $host;
-
 	function about() {
 		return array(0.1,
 			'Add images to GU Comics feed',
@@ -10,7 +7,6 @@ class af_gucomics extends Plugin {
 	}
 
 	function init($host) {
-		$this->host = $host;
 		$host->add_hook($host::HOOK_ARTICLE_FILTER, $this);
 	}
 
