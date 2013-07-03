@@ -23,6 +23,8 @@ Note that the plugins marked with an asterisk will not have to connect to the we
 
 Please report any problems you might encounter using github's [issue tracker](https://github.com/tribut/ttrss-comics/issues).
 
+[![Flattr this](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=dxbi&url=https://github.com/tribut/ttrss-comics&title=tribut/ttrss-comics+on+GitHub&description=Some+plugins+to+fix+comics'+feeds+in+Tiny+Tiny+RSS&tags=github,repository,php&category=software)
+
 ## Legal
 
 Copyright (c) 2013 [Felix Eckhofer](http://www.eckhofer.com)
