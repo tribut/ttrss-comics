@@ -6,13 +6,14 @@ ttrss-comics
 ![Screenshot](http://i.imgur.com/x5ynERX.png)
 
 Currently available:
- * [Eat that toast!](http://eatthattoast.com)
- * [GU Comics](http://www.gucomics.com/)
- * [Married to the sea](http://www.marriedtothesea.com/)
- * [Toothpaste for dinner](http://www.toothpastefordinner.com/)
+ * [Eat that toast!](http://eatthattoast.com/)*
+ * [GU Comics](http://www.gucomics.com/)*
+ * [Married to the sea](http://www.marriedtothesea.com/)*
+ * [NPC Comic](http://www.npccomic.com/)
+ * [Toothpaste for dinner](http://www.toothpastefordinner.com/)*
 
 These plugins should work on any reasonably recent version of tt-rss and were last tested on tt-rrs 1.7.9.
-Note that the plugins will not have to connect to the webpage of the comic, they merely construct the url for the image from information already available in the respective feeds.
+Note that the plugins marked with an asterisk will not have to connect to the webpage of the comic, they merely construct the url for the image from information already available in the respective feeds.
 
 ## Installation
 
