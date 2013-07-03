@@ -6,6 +6,7 @@ ttrss-comics
 ![Screenshot](http://i.imgur.com/x5ynERX.png)
 
 Currently available:
+ * [Eat that toast!](http://eatthattoast.com)
  * [GU Comics](http://www.gucomics.com/)
  * [Married to the sea](http://www.marriedtothesea.com/)
  * [Toothpaste for dinner](http://www.toothpastefordinner.com/)
