@@ -10,6 +10,7 @@ Currently available:
  * [GU Comics](http://www.gucomics.com/)*
  * [Married to the sea](http://www.marriedtothesea.com/)*
  * [NPC Comic](http://www.npccomic.com/)
+ * [The Book of Biff](http://www.thebookofbiff.com/)*
  * [Toothpaste for dinner](http://www.toothpastefordinner.com/)*
 
 These plugins should work on any reasonably recent version of tt-rss and were last tested on tt-rrs 1.7.9.
