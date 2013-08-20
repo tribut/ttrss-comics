@@ -22,5 +22,4 @@ class af_thebookofbiff extends Plugin {
 		return 2;
 	}
 }
-?>
 

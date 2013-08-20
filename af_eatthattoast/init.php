@@ -23,5 +23,4 @@ class af_eatthattoast extends Plugin {
 		return 2;
 	}
 }
-?>
 

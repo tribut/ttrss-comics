@@ -37,5 +37,4 @@ class af_gucomics extends Plugin {
 		return 2;
 	}
 }
-?>
 
